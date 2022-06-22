@@ -1,4 +1,4 @@
-<a href="#"><img width="100%" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a>
+<a href="#"><img width="100%" src="https://i.imgur.com/iXuL1HG.png" height="auto"/></a>
 
 <h2 align="center">Welcome to Shubham Mahaseth's profile!  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"></h2>
 <h3 align="center">I'm a passionate Mobile Developer from India.</h3>
