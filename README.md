@@ -7,7 +7,7 @@
 ## 🙋‍♂️ About Me
 
 
-- 🌱 I’m currently learning **DSA** and working on **Expense Tracker App**
+- 🌱 I’m currently learning **DSA** and working on **Food Ordering App**
 
 - 👯 I’m looking to collaborate on **OpenSource Projects**
 
