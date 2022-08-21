@@ -1,13 +1,13 @@
 <a href="#"><img width="100%" src="https://i.imgur.com/iXuL1HG.png" height="auto"/></a>
 
 <h2 align="center">Welcome to Shubham Mahaseth's profile!  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"></h2>
-<h3 align="center">I'm a passionate Mobile Developer from India.</h3>
+<h3 align="center">I'm a passionate FrontEnd Developer from India.</h3>
 
 
 ## 🙋‍♂️ About Me
 
 
-- 🌱 I’m currently learning **DSA** and working on ReactJS project.
+- 🌱 I’m currently learning **DSA** and working on **ReactJS** project.
 
 - 👯 I’m looking to collaborate on **OpenSource Projects**
 
