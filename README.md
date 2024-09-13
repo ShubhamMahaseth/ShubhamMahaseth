@@ -7,7 +7,6 @@
 ## 🙋‍♂️ About Me
 
 
-- 🌱 I’m currently learning **DSA** and working on **ReactJS** project.
 
 - 👯 I’m looking to collaborate on **OpenSource Projects**
 
