@@ -1,7 +1,7 @@
 <a href="#"><img width="100%" src="https://i.imgur.com/iXuL1HG.png" height="auto"/></a>
 
 <h2 align="center">Hi there, I'm Shubham  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"></h2>
-<h3 align="center">I'm a passionate FrontEnd Developer from India.</h3>
+<h3 align="center">I'm a passionate Frontend Developer from India.</h3>
 
 
 ## 🙋‍♂️ About Me
